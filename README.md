@@ -65,17 +65,16 @@ All points are worth 1 point unless denoted by (). Points are earned by advancin
 
  > 40 Points available 
 
+ > Tiebreakers will be decided as follows: most wins, furthest run, lowest BST of furthest run, lower BST total of all point scoring runs, coinflip.
 
 |        Bonus Points       |
 | :-----------------------: |
-|Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points for the remainder of that run. All rules regarding abilities still apply i.e. (a 430 BST Pokemon may NOT have shell armor).|
-|Static Fanatic - Whoever guesses the primary typing of the most (all runs combined) static encounters (Tower Ghost, Snorlaxes, Legendary Birds) will earn 1 bonus point (must have clip linked with score updates). |
-|Flutist - Collect all five colored flutes (Yellow, Blue, Red, Black, White) in a single run and earn 1 bonus point (must have clip linked with score updates).|
-|Linking Mons - Successfully execute an in-game trade to earn 1 bonus point. NOTE: In-game trades ask for the same pokemon as the vanilla game. You may NOT farm extra catches to obtain these Pokemon...they must be obtained legally (i.e. early game pivot option).
+|Static Fanatic - Correctly guess the primary typing of one the static Pokemon (Snorlaxes/Ghost) and earn 1 bonus point towards your tourney total.|
+|Curse conquerer - Whoever conquers the most curses from all of their scoring runs combined will earn 3 bonus points towards their tourney total.|
 |Which Switch - Complete Surge's trash puzzle first try and earn 1 bonus point! (must have clip linked with score updates).|
 |Go to Class - Send a clip to BennyTots of the reward you get for solving the below riddle to get a bonus point:<br>A chalky board stands by my side,<br>Where tips for Trainers often reside.<br>I have the ability to run away,<br>but with you as my trainer I may stay.|
 
-Curse conquerer - most curses cleared in scoring runs.
+
 
 
 |Sevii Island Champion's Quest|
