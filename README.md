@@ -72,12 +72,6 @@ All points are worth 1 point unless denoted by (). Points are earned by advancin
 |Static Fanatic - Correctly guess the primary typing of one the static Pokemon (Snorlaxes/Ghost) and earn 1 bonus point towards your tourney total.|
 |Curse conquerer - Whoever conquers the most curses from all of their scoring runs combined will earn 3 bonus points towards their tourney total.|
 |Which Switch - Complete Surge's trash puzzle first try and earn 1 bonus point! (must have clip linked with score updates).|
-|Go to Class - Send a clip to BennyTots of the reward you get for solving the below riddle to get a bonus point:<br>A chalky board stands by my side,<br>Where tips for Trainers often reside.<br>I have the ability to run away,<br>but with you as my trainer I may stay.|
+|Evolution Premonition - Correctly guess the evo and provide a clip to earn 1 bonus point. May earn 1 point in each type (6 total) and the run must live (no guessing from the log or replay).|
 
-
-
-
-|Sevii Island Champion's Quest|
-| :-----------------------: |
-|If you're so fortunate as to conquer NATDEX Monomon, you may take on the post game quest on the Sevii Islands (NOTE: You need the NATDEX in order to access this, so just ensure you have it at the start of the game). Starting with the Rocket Grunts on 1 Island, you will treat the entire rest of the game as a dungeon (no Pokecenters allowed). You must sell all TMs beforehand and may only teach TMs/Move Tutors that were not available prior to the post game. You may NOT enter cerulean cave before going back to the islands. You will need to MANUALLY track how many trainers you defeat; the competitor who defeats the most trainers will earn 3 bonus points|
-
+Good Luck Challengers.
