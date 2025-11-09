@@ -25,7 +25,7 @@ Competitors will also earn "League Points" towards the MurphLeague according to 
 ## Point Breakdown
 All points are worth 1 point unless denoted by (). Points are earned by advancing through segments and obtaining full-clear prizes. Segments earned via reward do not count towards points. Point is earned once clearing the section or using PC to force progression.
 |Points| 
-|-| 
+| :-----------------------------------: | 
 |Lab|
 |Forest|
 |Rival 2|
