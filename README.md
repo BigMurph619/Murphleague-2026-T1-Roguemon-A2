@@ -14,7 +14,7 @@ T1 is hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). Dates: January
 
 > You must be in the [MurphVerse discord](https://discord.gg/fNX4geCU) and all seeds must be live for the entire run and have a VOD available. Murphleague tourneys are free to enter and open to all entrants unless previously banned.
 
-Competitors will select 6 types to run up to 20 attempts each in. Your highest scoring run from each type will be added together to get your cumulative score. You may NOT run any of your selected types again for the remainder of the Murphleague 2026 season. Typeless is banned from your 6 choices.
+Competitors will select 6 types to run up to 15 attempts each in. Your highest scoring run from each type will be added together to get your cumulative score. You may NOT run any of your selected types again for the remainder of the Murphleague 2026 season. Typeless is banned from your 6 choices.
 
 ## Awards
 
