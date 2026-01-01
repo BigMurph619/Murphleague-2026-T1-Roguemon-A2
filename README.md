@@ -70,7 +70,7 @@ All points are worth 1 point unless denoted by (). Points are earned by advancin
 |        Bonus Points       |
 | :-----------------------: |
 |Static Fanatic - Correctly guess the primary typing of one the static Pokemon (Snorlaxes/Ghost) and earn 1 bonus point towards your tourney total.|
-|Curse conquerer - Whoever conquers the most curses from all of their scoring runs combined will earn 3 bonus points towards their tourney total.|
+|Curse conqueror - Whoever conquers the most curses from all of their scoring runs combined will earn 3 bonus points towards their tourney total.|
 |Which Switch - Complete Surge's trash puzzle first try and earn 1 bonus point! (must have clip linked with score updates).|
 |Evolution Premonition - Correctly guess the evo and provide a clip to earn 1 bonus point. May earn 1 point in each type (6 total) and the run must live (no guessing from the log or replay).|
 
